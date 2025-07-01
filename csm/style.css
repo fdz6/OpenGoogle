@@ -1,0 +1,38 @@
+.nbpr {
+  left: 16px;
+  background: #2d2d2d;
+  font: 13px/29px Arial,sans-serif;
+  height: 29px;
+  position: relative;
+  top: 0;
+  width: 0;
+  white-space: nowrap;
+  z-index: 991;
+  border-bottom: 1px solid #000;
+}
+.nbprs {
+  color: #ccc;
+}
+.bg {
+  background-color: #2d2d2d;
+  opacity: 1;
+  background-image: none;
+  background-position: 0 -138px;
+  background-repeat: repeat-x;
+  border-bottom: 1px solid #000;
+  font-size: 24px;
+  height: 29px;
+  opacity: 1;
+  filter: alpha(opacity=100);
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 990;
+}
+.nbprs a {
+  color: #b4b4b4 !important;
+  text-decoration: none !important;
+}
+.nbprs a:hover {
+  text-decoration: underline !important;
+}
